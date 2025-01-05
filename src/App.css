@@ -2,13 +2,14 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    background-color: black;
 }
 button{
-    width: 400px;
-    margin-left: 200px;
+    width: 315px;
+    margin-left: 156px;
 }
 h1{
-    margin-left: 270px;
+    margin-left: 190px;
 }
 @media (max-width:600px) {
     .h1{
@@ -23,7 +24,7 @@ h1{
         margin-left: -100px;
     }
     button{
-        margin-left: -53px;
+        margin-left: -55px;
         width: 305px;
     }
 
